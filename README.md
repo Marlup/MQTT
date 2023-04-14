@@ -1,4 +1,4 @@
-# MQTT
+# Basic MQTT in Python
 MQTT example in Python
 
 **Warning**. This project is under development.
